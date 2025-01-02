@@ -15,7 +15,7 @@ Perfect for anyone looking to enhance the readability of Bible text in their Jop
 2. Alternatively, you can download this repository and specify the directory path in the "Advanced" section of the plugin settings within the app.
 ## Demo
 
-![](https://github.com/Mouzone/superscript-plugin/blob/main/demo.gif)
+![](https://github.com/Mouzone/joplin-bible-formatting/blob/main/demo.gif)
 
 
 ## How It Works
